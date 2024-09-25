@@ -16,31 +16,3 @@ a{
 #topel{
     padding-top: 5%;
 }
-
-h2{
-    margin-top: 5%;
-    font-size:250%;
-    margin-left: 45%;
-}
-
-h3{
-    margin-top: 5%;
-    font-size:200%;
-    margin-left:25%;
-}
-
-h4, ul{
-    font-size: 125%;
-    margin-left: 5%;
-}
-
-li{
-    margin: 3%;
-}
-
-img{
-    margin: 2%;
-    height: 25%;
-    /*margin-left: 80%;*/
-    float:right;
-}
